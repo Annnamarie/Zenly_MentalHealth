@@ -31,5 +31,11 @@ We will be looking to implement the design into an actual working mobile app.
 Figma, Prototype, React Native
 
 **Demo**
+
 ![Demo](https://i.imgur.com/O4pw6gI.gif)
+
+![Imgur](https://imgur.com/O4pw6gI)
+
 ![Video Walkthrough](https://vimeo.com/940502552?share=copy)
+
+<video src='https://vimeo.com/940502552?share=copy' width=180/>
